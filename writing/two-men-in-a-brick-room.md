@@ -1,3 +1,8 @@
+---
+layout: writing
+title: Two Men in a Brick Room
+date: 1st of September 2026
+---
 
 The turn of the 18th year since the Imperial Palace had established control marked the end of the era of turmoil within the nation. 
 
