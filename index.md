@@ -7,6 +7,10 @@ Challenging myself to write ~1k words a day for the month of September. The work
 
 Point and laugh at me.
 
+### [A New Hope](writing/a-new-hope.md)
+
+*2 September 2026*
+
 ### [Two Men in a Brick Room](writing/two-men-in-a-brick-room.md)
 
 *1 September 2026*
